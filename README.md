@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satvik89" alt="satvik89" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/satvik manchanda" target="blank"><img src="https://img.shields.io/twitter/follow/satvik manchanda?logo=twitter&style=for-the-badge" alt="satvik manchanda" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SatvikManchanda" target="blank"><img src="https://img.shields.io/twitter/follow/satvik manchanda?logo=twitter&style=for-the-badge" alt="satvik manchanda" /></a> </p>
 
 - 🌱 I’m currently learning **react, django**
 
