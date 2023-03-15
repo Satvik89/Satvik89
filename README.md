@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satvik Manchanda</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satvik89" alt="satvik89" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satvik89" alt="satvik89" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/SatvikManchanda" target="blank"><img src="https://img.shields.io/twitter/follow/satvik manchanda?logo=twitter&style=for-the-badge" alt="satvik manchanda" /></a> </p>
 
