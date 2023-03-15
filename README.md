@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satvik89" alt="satvik89" /></a> </p> -->
+<img align="right" width="400" src="https://i.pinimg.com/originals/06/da/e0/06dae00db5d880b20b5e83907f1f828a.jpg" alt="meme>
 
 <p align="left"> <a href="https://twitter.com/SatvikManchanda" target="blank"><img src="https://img.shields.io/twitter/follow/satvik manchanda?logo=twitter&style=for-the-badge" alt="satvik manchanda" /></a> </p>
 
